@@ -6,7 +6,7 @@ This README would normally document whatever steps are necessary to get your app
 
 * Quick summary
 * Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* [Google](https://www.google.com)
 
 ### How do I get set up? ###
 
