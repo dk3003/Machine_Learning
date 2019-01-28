@@ -2,7 +2,7 @@
 """
 Created on Fri Jun  8 15:52:27 2018
 
-@author: Vineet pathak
+@author: Karthik Raman
 """
 
 # the tuples consist of (delay time of train1, number of times)
